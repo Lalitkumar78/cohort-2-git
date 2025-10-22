@@ -1,0 +1,11 @@
+autosave on karna vscode me.
+
+jaha me cursor rakha he us per ctrl+c kara to copy line ho jayegi.
+
+or ctrl+l one line copy ho jayegi.
+
+all select to ctrl+A.
+
+ctrl + tab se tab ko switch karenge ok.
+
+alt + tab se application hongi example:- chrome per click kar alt+tab to vs code jo bhi do application chala rahe he. 
